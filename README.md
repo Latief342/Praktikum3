@@ -2,9 +2,6 @@
 ![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-## TokoLaptop
----
-
 **Toko Laptop** adalah aplikasi Android sederhana yang dirancang untuk menampilkan katalog 10 laptop populer dari berbagai kategori — mulai dari laptop gaming premium seperti Asus ROG Strix hingga laptop bisnis seperti Lenovo ThinkPad X1.
 
 Aplikasi ini merupakan tugas praktikum (Week 3 PAB) yang dibangun menggunakan **Kotlin** untuk mendemonstrasikan pemahaman dasar pengembangan Android, khususnya penggunaan **Intent**, **RecyclerView**, dan **Activity Lifecycle**.
