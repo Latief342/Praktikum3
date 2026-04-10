@@ -56,7 +56,7 @@ git clone https://github.com/USERNAME/tokoLaptop.git
 3. **Sync Gradle** — Tunggu hingga proses sinkronisasi selesai.
 
 4. **Jalankan aplikasi** — Gunakan emulator atau perangkat Android fisik (min. API 24).
-
+ kamu  
 ---
 
 ## 👥 Kelompok
