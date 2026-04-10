@@ -63,7 +63,9 @@ git clone https://github.com/USERNAME/tokoLaptop.git
 
 Anggota tim yang berkontribusi dalam pengembangan aplikasi ini:
 
-1. **Anton Maulana Ibrahim** (L0324010)
+1. **Abdul Latief**             (L0324001)
+2. **Anton Sulaiman**           (L0324004)
+3. **Muhammad Hafizh Fadhilah** (L0324021)
 
 ---
 
