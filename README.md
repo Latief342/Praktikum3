@@ -5,7 +5,7 @@
 **Toko Laptop** adalah aplikasi Android sederhana yang dirancang untuk menampilkan katalog 10 laptop populer dari berbagai kategori — mulai dari laptop gaming premium seperti Asus ROG Strix hingga laptop bisnis seperti Lenovo ThinkPad X1.
 
 Aplikasi ini merupakan tugas praktikum (Week 3 PAB) yang dibangun menggunakan **Kotlin** untuk mendemonstrasikan pemahaman dasar pengembangan Android, khususnya penggunaan **Intent**, **RecyclerView**, dan **Activity Lifecycle**.
-
+alterego
 ---
 
 ## ✨ Fitur Utama
